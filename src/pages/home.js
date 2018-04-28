@@ -6,6 +6,10 @@ import SubscribeModal from '../components/subscribe_modal';
 import Ticker from '../components/ticker';
 import Header from '../components/header';
 import Navigation from '../components/navigation';
+import Content from '../components/content';
+import Videos from '../components/videos';
+import AddBannerSection from '../components/ads/add_banner_section';
+import NewsCategories from '../components/news_categories';
 
 class Home extends Component {
     render () {
@@ -19,6 +23,10 @@ class Home extends Component {
                     <Ticker/>
                     <Header/>
                     <Navigation/>
+                    <Content/>
+                    <Videos/>
+                    <AddBannerSection/>
+                    <NewsCategories/>
                 </main> 
             </div>
         )

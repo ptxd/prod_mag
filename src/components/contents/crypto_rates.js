@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class CryptoRates extends Component {
+class WidgetCryptoRates extends Component {
     render () {
         return (
             <div className="widget widget-crypto-rates">
@@ -11,4 +11,4 @@ class CryptoRates extends Component {
     }
 }
 
-export default CryptoRates
+export default WidgetCryptoRates
