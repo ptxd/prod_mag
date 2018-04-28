@@ -11,7 +11,7 @@ class Videos extends Component {
                             <article className="entry">
                                 <a href="single-post.html" className="entry__meta-category">investment</a>
                                 <div className="entry__img-holder thumb-container thumb-60">
-                                <img data-src="img/blog/video_1.jpg" src="img/empty.png" className="entry__img lazyload" alt=""/>
+                                <img data-src="https://www.youtube.com/watch?v=ZE2HxTmxfrI" src="https://www.youtube.com/watch?v=ZE2HxTmxfrI" className="entry__img lazyload" alt=""/>
                                 <a href="single-post.html" className="thumb-url"></a>
                                 <a href="#" className="play-btn"></a>
                                 </div>

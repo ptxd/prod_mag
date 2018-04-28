@@ -20,7 +20,7 @@ class HotNews extends Component {
                             <div className="entry__body">
                               <div className="entry__header">
                                 <h2 className="entry__title entry__title--medium">
-                                  <a href="single-post.html">Bitcoin Fees: Possible Solutions and Scenarios</a>
+                                  <a href="single-post.html">Rising Price of Cryptocurrencies: Why Does It Happen</a>
                                 </h2>
                               </div>
                             </div>
@@ -28,7 +28,7 @@ class HotNews extends Component {
                         </div>
                         <div className="col-md-6">
                           <article className="entry">
-                            <a href="categories.html" className="entry__meta-category">education</a>
+                            <a href="categories.html" className="entry__meta-category">ICO</a>
                             <div className="entry__img-holder">
                               <a href="single-post.html">
                                 <div className="thumb-container thumb-75">
@@ -40,7 +40,7 @@ class HotNews extends Component {
                             <div className="entry__body">
                               <div className="entry__header">                        
                                 <h2 className="entry__title entry__title--medium">
-                                  <a href="single-post.html">Navigating The ICO Gold Rush – 4 Critical ICO Evaluation Factors</a>
+                                  <a href="single-post.html">ERC20 Code Contract Bug – Does It Affect You?</a>
                                 </h2>
                               </div>
                             </div>
