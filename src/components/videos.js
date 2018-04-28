@@ -1,7 +1,22 @@
 import React, { Component } from 'react'
+import YouTube from 'react-youtube';
 
 class Videos extends Component {
     render () {
+        const opts = {
+            height: '500px',
+            width: '805px',
+            playerVars: { // https://developers.google.com/youtube/player_parameters
+              autoplay: 0
+            }
+          };
+          const opts2 = {
+            height: '175px',
+            width: '295px',
+            playerVars: { // https://developers.google.com/youtube/player_parameters
+              autoplay: 0
+            }
+          };
         return (
             <section className="section-wrap pt-50 bg-dark">
                 <div className="container">
@@ -9,17 +24,19 @@ class Videos extends Component {
                     <div className="row">
                         <div className="col-lg-8">
                             <article className="entry">
-                                <a href="single-post.html" className="entry__meta-category">investment</a>
-                                <div className="entry__img-holder thumb-container thumb-60">
-                                <img data-src="https://www.youtube.com/watch?v=ZE2HxTmxfrI" src="https://www.youtube.com/watch?v=ZE2HxTmxfrI" className="entry__img lazyload" alt=""/>
-                                <a href="single-post.html" className="thumb-url"></a>
-                                <a href="#" className="play-btn"></a>
+                                <a href="single-post.html" className="entry__meta-category">Blockchain</a>
+                                <div className=" thumb-container">
+                                <YouTube
+                                    videoId="hYip_Vuv8J0"
+                                    opts={opts}
+                                    onReady={this._onReady}
+                                />
                                 </div>
                 
                                 <div className="entry__body">
                                 <div className="entry__header">
                                     <h2 className="entry__title entry__title--large">
-                                    <a href="single-post.html">Blockchain-based Mobile Payments Service Developed by Gates Foundation</a>
+                                    <a href="single-post.html">Blockchain Video For Dummies: Temporary Filler Really Till We Find a Better Video</a>
                                     </h2>
                                 </div>
                                 </div>
@@ -28,31 +45,37 @@ class Videos extends Component {
             
                         <div className="col-lg-4 video-col--small">
                             <article className="entry">
-                                <a href="single-post.html" className="entry__meta-category">investment</a>
-                                <div className="entry__img-holder thumb-container thumb-60">
-                                <img data-src="img/blog/video_2.jpg" src="img/empty.png" className="entry__img lazyload" alt=""/>
-                                <a href="single-post.html" className="thumb-url"></a>
+                                <a href="single-post.html" className="entry__meta-category">ICO</a>
+                                <div className="thumb-container">
+                                <YouTube
+                                    videoId="sqcN8WS61CI"
+                                    opts={opts2}
+                                    onReady={this._onReady}
+                                />
                                 </div>
                 
                                 <div className="entry__body">
                                 <div className="entry__header">
                                     <h2 className="entry__title">
-                                    <a href="single-post.html">Bitcoin Fees: Possible Solutions and Scenarios</a>
+                                    <a href="single-post.html">ERC20 Buffer Overflow: Explained By A Dev</a>
                                     </h2>
                                 </div>
                                 </div>
                             </article>
                             <article className="entry">
-                                <a href="single-post.html" className="entry__meta-category">investment</a>
-                                <div className="entry__img-holder thumb-container thumb-60">
-                                <img data-src="img/blog/video_3.jpg" src="img/empty.png" className="entry__img lazyload" alt=""/>
-                                <a href="single-post.html" className="thumb-url"></a>
+                                <a href="single-post.html" className="entry__meta-category">ICO</a>
+                                <div className="thumb-container thumb-0">
+                                <YouTube
+                                    videoId="YWMmd7hlwNI"
+                                    opts={opts2}
+                                    onReady={this._onReady}
+                                />
                                 </div>
                 
                                 <div className="entry__body">
                                 <div className="entry__header">
                                     <h2 className="entry__title">
-                                    <a href="single-post.html">Bitcoin Fees: Possible Solutions and Scenarios</a>
+                                    <a href="single-post.html">Warren Buffett: Why Would I Take In Position In Something I Dont Know About</a>
                                     </h2>
                                 </div>
                                 </div>
