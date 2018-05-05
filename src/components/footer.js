@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className="col-lg-4 col-md-6">
                     <div className="widget">
                     <a href="index.html">
-                        <img src="img/logo.png" srcset="img/logo.png 1x, img/logo@2x.png 2x" className="logo__img" alt=""/>
+                        <img src="img/logo.png" srcSet="img/logo.png 1x, img/logo@2x.png 2x" className="logo__img" alt=""/>
                     </a>
                     <p className="mt-20 mb-30">All you need to know about Cryptocurrencies, Blockchain, ICOs, mining, and more.</p>
                     <div className="socials">

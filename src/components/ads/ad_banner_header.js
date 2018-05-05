@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import PlaceholderLeaderBoard from '../../img/blog/placeholder_leaderboard.jpg'
+import PlaceholderLeaderBoard from '../../img/Banner Ads/guild-banner-img.png'
 
 class AddBanner extends Component {
     render () {

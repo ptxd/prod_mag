@@ -12,12 +12,12 @@ class Content extends Component {
     render () {
         return (
             // <!-- Content -->      
-            <section class="section-wrap main-content">
-              <div class="container">
-                <div class="row">
+            <section className="section-wrap main-content">
+              <div className="container">
+                <div className="row">
         
                   {/* <!-- Posts --> */}
-                  <div class="col-lg-8 blog__content mb-30">
+                  <div className="col-lg-8 blog__content mb-30">
                     <FeaturedPosts/>
                     <HotNews/>
                     <RecentNews/>
@@ -25,7 +25,7 @@ class Content extends Component {
                   {/* <!-- end posts --> */}
         
                   {/* <!-- Sidebar --> */}
-                  <aside class="col-lg-4 sidebar sidebar--right">
+                  <aside className="col-lg-4 sidebar sidebar--right">
                     <WidgetCryptoRates/>
                     <WidgetFeaturedICO/>
                     <WidgetSocials/>
