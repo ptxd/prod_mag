@@ -3,10 +3,10 @@ import React from 'react'
 const Socials = () => {
     return (
             <div className="nav__right-item socials nav__socials"> 
-                <a className="social social-facebook social--nobase" href="#" target="_blank" aria-label="facebook">
+                <a className="social social-facebook social--nobase" href="https://www.facebook.com/guild.crypto.3" target="_blank" aria-label="facebook">
                   <i className="ui-facebook"></i>
                 </a>
-                <a className="social social-twitter social--nobase" href="#" target="_blank" aria-label="twitter">
+                <a className="social social-twitter social--nobase" href="https://twitter.com/guildcrypto" target="_blank" aria-label="twitter">
                   <i className="ui-twitter"></i>
                 </a>
                 <a className="social social--nobase" href="#" target="_blank" aria-label="telegram" style={{paddingTop:'6px'}}>
