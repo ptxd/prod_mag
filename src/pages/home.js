@@ -10,7 +10,7 @@ import Content from '../components/content';
 import Videos from '../components/videos';
 import AddBannerSection from '../components/ads/add_banner_section';
 import NewsCategories from '../components/news_categories';
-import Newsletters from '../components/newsletters';
+import ApplicationForm from '../components/newsletters';
 import Footer from '../components/footer';
 
 class Home extends Component {
@@ -29,7 +29,7 @@ class Home extends Component {
                     <Videos/>
                     <AddBannerSection/>
                     <NewsCategories/>
-                    <Newsletters/>
+                    <ApplicationForm/>
                     <Footer/>
                 </main> 
             </div>

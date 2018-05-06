@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import {connect} from 'react-redux';
-import {withRouter} from 'react-router-dom';
 import {bindActionCreators} from 'redux';
 import {subscribe} from '../actions/ac_subform';
 
@@ -19,7 +18,6 @@ class SubscribeModal extends Component {
     }
     
     onInputChange(event){
-        console.log(event.target.value);
         this.setState({email:event.target.value});
     }
     onFormSubmit(event){
