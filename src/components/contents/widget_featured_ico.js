@@ -11,8 +11,8 @@ class WidgetFeaturedICO extends Component {
                 <ul className="widget-featured-icos__list">
                 <li className="widget-featured-icos__item">
                     <a href="#" className="widget-featured-icos__url">
-                    <img src={'http://optincoin.org/wp-content/uploads/2018/03/logo-optin-gradient-curves.svg'} alt="" width='100' height='100'/>
-                    <span className="widget-featured-icos__title">Optin Coin</span>
+                    <img src={ClearCoin} alt="" />
+                    <span className="widget-featured-icos__title">ClearCoin</span>
                     <span className="widget-featured-icos__launch">Starts in:</span>
                     <span className="widget-featured-icos__time">60 days</span>
                     </a>
