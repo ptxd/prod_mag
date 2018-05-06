@@ -3,7 +3,7 @@ import MobileToggle from './header/mobile_toggle';
 import LogoHeader from './header/logo_header';
 import SearchBar from './header/searchbar';
 import SearchForm from './header/search_form';
-import AdBanner from './header/ad_banner';
+import AdBanner from './ads/ad_banner_header';
 
 class Header extends Component {
     render () {

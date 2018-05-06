@@ -9,13 +9,13 @@ class Navigation extends Component {
     render () {
         return (
             <header className="nav d-lg-block d-none">
-                <div class="nav__holder">
-                    <div class="container relative">
-                        <div class="flex-parent">
+                <div className="nav__holder">
+                    <div className="container relative">
+                        <div className="flex-parent">
                             <SearchForm/>           
                             <NavWrapper/>
                             {/* <!-- Nav Right --> */}
-                            <div class="nav__right nav--align-right d-none d-lg-flex">
+                            <div className="nav__right nav--align-right d-none d-lg-flex">
                             {/* <!-- Socials --> */}
                             <Socials/>
                             {/* <!-- Subscribe --> */}

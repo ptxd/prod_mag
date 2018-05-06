@@ -6,7 +6,7 @@ class Newsletters extends Component {
             <div className="container">
                 <div className="widget newsletter-wide">
                 <div className="newsletter-wide__text">
-                    <h3 className="widget-title newsletter-wide__title">Stay up to date</h3>
+                    <h3 className="widget-title newsletter-wide__title">Write For Us</h3>
                 </div>
                 <div className="newsletter-wide__form">
                     <form className="mc4wp-form">
@@ -19,7 +19,7 @@ class Newsletters extends Component {
                         <i className="ui-email"></i>
                         <input type="email" name="EMAIL" placeholder="Your email" required=""/>
                         </div>
-                        <input type="submit" className="btn btn-md btn-color" value="Subscribe"/>
+                        <input type="submit" className="btn btn-md btn-color" value="Apply"/>
                     </div>
                     </form>
                 </div>
