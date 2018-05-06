@@ -18,7 +18,6 @@ class WidgetNewsletter extends Component {
     }
 
     onInputChange(event){
-        console.log(event.target.value);
         this.setState({email:event.target.value});
     }
     onFormSubmit(event){
