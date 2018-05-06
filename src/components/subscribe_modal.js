@@ -9,10 +9,13 @@ class SubscribeModal extends Component {
 
     constructor(props){
         super(props);
-        this.state = { email:''}
+        this.state = { 
+            email:''
+        }
 
         this.onInputChange = this.onInputChange.bind(this);
         this.onFormSubmit = this.onFormSubmit.bind(this);
+        this.onSubmitButton = this.onSubmitButton.bind(this);
     }
     
     onInputChange(event){
@@ -23,6 +26,10 @@ class SubscribeModal extends Component {
         event.preventDefault();
         this.props.subscribe(this.state.email);
         this.setState({email:''});
+    }
+    onSubmitButton(event){
+        alert('Thank You For Subscribing!');
+        
     }
 
     render () {
@@ -54,6 +61,7 @@ class SubscribeModal extends Component {
                             type="submit" 
                             className="btn btn-md btn-color btn-block" 
                             value = "Subscribe"
+                            onClick = {this.onSubmitButton}
                             />
                         </div>
                     </form>
