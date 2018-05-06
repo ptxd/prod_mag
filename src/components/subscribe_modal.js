@@ -55,7 +55,7 @@ class SubscribeModal extends Component {
                                 required="" 
                                 value={this.state.email}
                                 onChange={this.onInputChange}
-                                />
+                            />
                         </div>
                         <input 
                             type="submit" 
