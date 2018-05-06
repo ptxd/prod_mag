@@ -9,18 +9,18 @@ class NewsCategories extends Component {
                     <div className="row">
                     <div className="col-lg-3 col-md-6">
                         <article className="entry">
-                        <a href="categories.html" className="entry__meta-category">education</a>
+                        <a href="categories.html" className="entry__meta-category">crypto markets</a>
                         <div className="entry__img-holder">
-                            <a href="single-post.html">
+                            <a href="">
                             <div className="thumb-container thumb-60">
-                                <img data-src="img/blog/post_9.jpg" src="img/empty.png" className="entry__img lazyload" alt="" />
+                                <img data-src="https://www.top10-casinosites.net/wp-content/uploads/2017/11/Cryptocoin-Money.png" src="https://www.top10-casinosites.net/wp-content/uploads/2017/11/Cryptocoin-Money.png" className="entry__img lazyload" alt="" />
                             </div>
                             </a>
                         </div>
                         <div className="entry__body">
                             <div className="entry__header">
                             <h2 className="entry__title">
-                                <a href="single-post.html">Best Bitcoin Exchanges Reviewed &amp; Compared</a>
+                                <a href="single-post.html">How And Where To Buy Cryptocurrency Overview</a>
                             </h2>
                             </div>
                         </div>
@@ -29,7 +29,7 @@ class NewsCategories extends Component {
                         <div className="entry__body">
                             <div className="entry__header">
                             <h2 className="entry__title">
-                                <a href="single-post.html">ChronoBank: What's in the Near Future?</a>
+                                <a href="https://themerkle.com/indian-cryptocurrency-investors-remain-bullish-despite-looming-bank-ban/">Indian-Cryptocurrency Investors Remain Bullish Despite Looming Bank Ban</a>
                             </h2>
                             </div>
                         </div>
@@ -38,7 +38,7 @@ class NewsCategories extends Component {
                         <div className="entry__body">
                             <div className="entry__header">
                             <h2 className="entry__title">
-                                <a href="single-post.html">Cryptocurrency Markets: Weekly Trading Overview (06-13 October)</a>
+                                <a href="https://smartereum.com/8078/cryptocurrency-review-for-the-week//">Cryptocurrency Review For The Week</a>
                             </h2>
                             </div>
                         </div>
@@ -46,18 +46,18 @@ class NewsCategories extends Component {
                     </div>
                     <div className="col-lg-3 col-md-6">
                         <article className="entry">
-                        <a href="categories.html" className="entry__meta-category">investment</a>
+                        <a href="categories.html" className="entry__meta-category">Mining</a>
                         <div className="entry__img-holder">
-                            <a href="single-post.html">
+                            <a href="https://99bitcoins.com/guide-ethereum-mining-how-to-mine-ethereum/">
                             <div className="thumb-container thumb-60">
-                                <img data-src="img/blog/post_10.jpg" src="img/empty.png" className="entry__img lazyload" alt="" />
+                                <img data-src="https://www.cryptocompare.com/media/351996/1zec.png" src="https://www.cryptocompare.com/media/351996/1zec.png" className="entry__img lazyload" alt="" />
                             </div>
                             </a>
                         </div>
                         <div className="entry__body">
                             <div className="entry__header">
                             <h2 className="entry__title">
-                                <a href="single-post.html">MyEtherWallet Opens the Ethereum Universe for You</a>
+                                <a href="https://99bitcoins.com/guide-ethereum-mining-how-to-mine-ethereum/">Beginner's Guide To Ethereum Mining in 2018</a>
                             </h2>
                             </div>
                         </div>
@@ -66,7 +66,7 @@ class NewsCategories extends Component {
                         <div className="entry__body">
                             <div className="entry__header">
                             <h2 className="entry__title">
-                                <a href="single-post.html">How to Buy Litecoin: Get your First Digital Silver</a>
+                                <a href="https://www.coinpursuit.com/articles/an-in-depth-look-at-cryptocurrency-mining-algorithms.179/">An In-Depth Look at Cryptocurrency Mining Algorithms</a>
                             </h2>
                             </div>
                         </div>
@@ -83,18 +83,18 @@ class NewsCategories extends Component {
                     </div>
                     <div className="col-lg-3 col-md-6">
                         <article className="entry">
-                        <a href="categories.html" className="entry__meta-category">education</a>
+                        <a href="categories.html" className="entry__meta-category">ICO's</a>
                         <div className="entry__img-holder">
                             <a href="single-post.html">
                             <div className="thumb-container thumb-60">
-                                <img data-src="img/blog/post_11.jpg" src="img/empty.png" className="entry__img lazyload" alt="" />
+                                <img data-src="http://bitcoinist.com/wp-content/uploads/2017/12/as-initial-coin-offerings.jpg" src="http://bitcoinist.com/wp-content/uploads/2017/12/as-initial-coin-offerings.jpg" className="entry__img lazyload" alt="" />
                             </div>
                             </a>
                         </div>
                         <div className="entry__body">
                             <div className="entry__header">
                             <h2 className="entry__title">
-                                <a href="single-post.html">LocalBitcoins: Another Measure of Bitcoin's Popularity</a>
+                                <a href="https://howtotoken.com/ico/how-to-write-a-smart-contract-for-your-ico-an-ultimate-guide/">How To Write A Smart Contract For Your ICO An Ultimate Guide</a>
                             </h2>
                             </div>
                         </div>
@@ -103,7 +103,7 @@ class NewsCategories extends Component {
                         <div className="entry__body">
                             <div className="entry__header">
                             <h2 className="entry__title">
-                                <a href="single-post.html">How to Read a Blockchain Explorer</a>
+                                <a href="https://ethresear.ch/t/explanation-of-daicos/465">What Is A DAICO And Its Benefits - Vitalik Buterin</a>
                             </h2>
                             </div>
                         </div>
@@ -112,7 +112,7 @@ class NewsCategories extends Component {
                         <div className="entry__body">
                             <div className="entry__header">
                             <h2 className="entry__title">
-                                <a href="single-post.html">Navigating The ICO Gold Rush – 4 Critical ICO Evaluation Factors</a>
+                                <a href="https://stocksgazette.com/2018/05/05/exciting-times-for-eos-community-mainnet-is-near/">EOS MainNet Is Coming - Exciting Time For The EOS Community </a>
                             </h2>
                             </div>
                         </div>
@@ -120,18 +120,18 @@ class NewsCategories extends Component {
                     </div>
                     <div className="col-lg-3 col-md-6">
                         <article className="entry">
-                        <a href="categories.html" className="entry__meta-category">ICO's</a>
+                        <a href="categories.html" className="entry__meta-category">education</a>
                         <div className="entry__img-holder">
-                            <a href="single-post.html">
+                            <a href="https://cointelegraph.com/news/how-and-where-to-buy-cryptocurrency-overview">
                             <div className="thumb-container thumb-60">
-                                <img data-src="img/blog/post_12.jpg" src="img/empty.png" className="entry__img lazyload" alt="" />
+                                <img data-src="https://www.top10-casinosites.net/wp-content/uploads/2017/11/Cryptocoin-Money.png" src="https://www.top10-casinosites.net/wp-content/uploads/2017/11/Cryptocoin-Money.png" className="entry__img lazyload" alt="" />
                             </div>
                             </a>
                         </div>
                         <div className="entry__body">
                             <div className="entry__header">
                             <h2 className="entry__title">
-                                <a href="single-post.html">Top VCs Back Record Breaking Filecoin ICO</a>
+                                <a href="https://cointelegraph.com/news/how-and-where-to-buy-cryptocurrency-overview">How And Where To Buy Cryptocurrency Overview</a>
                             </h2>
                             </div>
                         </div>
@@ -140,7 +140,7 @@ class NewsCategories extends Component {
                         <div className="entry__body">
                             <div className="entry__header">
                             <h2 className="entry__title">
-                                <a href="single-post.html">Litecoin Mining: Scrypt Algorithm for a Leading Coin</a>
+                                <a href="https://www.bitcoinmining.com/bitcoin-mining-hardware/">Best ASIC Mining Hardwares In The Market</a>
                             </h2>
                             </div>
                         </div>
@@ -149,7 +149,7 @@ class NewsCategories extends Component {
                         <div className="entry__body">
                             <div className="entry__header">
                             <h2 className="entry__title">
-                                <a href="single-post.html">ChronoBank: Reaching the Community and Markets</a>
+                                <a href="https://blockgeeks.com/guides/cryptocurrency-wallet-guide/">Cryptocurrency Wallets And How You Should Use Them</a>
                             </h2>
                             </div>
                         </div>
